@@ -1,0 +1,13 @@
+# java内存自动管理机制	
+
+## 简介
+
+java与C++：
+
+java具有内存动态分配和垃圾回收机制。由jvm自动管理对象的地址分配和回收。正如运行在java之上的Spring框架，负责的是java对象的创建和销毁动作。
+
+C++则需要开发人员对每一个创建的对象负责，从生到死。
+
+## 运行时的数据区域
+
+<img src="D:%5Cmygit%5CmdFiles%5Cjava%E5%86%85%E5%AD%98%E8%87%AA%E5%8A%A8%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.assets%5Cimage-20200724175823960.png" alt="image-20200724175823960" style="zoom:50%;" />
