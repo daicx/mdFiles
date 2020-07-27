@@ -10,4 +10,5 @@ C++则需要开发人员对每一个创建的对象负责，从生到死。
 
 ## 运行时的数据区域
 
-<img src="D:%5Cmygit%5CmdFiles%5Cjava%E5%86%85%E5%AD%98%E8%87%AA%E5%8A%A8%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.assets%5Cimage-20200724175823960.png" alt="image-20200724175823960" style="zoom:50%;" />
+<img src="java%E5%86%85%E5%AD%98%E8%87%AA%E5%8A%A8%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.assets/image-20200724175823960-1595867674813.png" alt="image-20200724175823960" style="zoom:50%;" />
+
